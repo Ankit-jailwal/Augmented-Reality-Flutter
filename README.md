@@ -1,4 +1,4 @@
-# arflutter
+# Augmented Reality Flutter
 
 A new Flutter application.
 
