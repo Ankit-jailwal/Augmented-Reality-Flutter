@@ -1,3 +1,4 @@
+import 'package:arflutter/screens/dashBoard/components/Body.dart';
 import 'package:flutter/material.dart';
 
 class dashBoard extends StatelessWidget {
@@ -16,6 +17,7 @@ class dashBoard extends StatelessWidget {
                 },
                 icon: Icon(Icons.arrow_back,color: Colors.white,size: 30,)),
           ),
+        body: Body(),
       ),
     );
   }
