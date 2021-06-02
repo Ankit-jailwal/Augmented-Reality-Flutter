@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           navigateAfterSeconds: new dashBoard(),
           title: Text("Augmented Reality Flutter",style: TextStyle(color: Colors.black26,fontSize: 22,fontWeight: FontWeight.w600,fontFamily: "oswald"),),
           image: new Image.asset("assets/images/AR.png"),
-          photoSize: 100,
+          photoSize: 150,
           backgroundColor: Color(0xfffffaf0),
           styleTextUnderTheLoader: new TextStyle(),
           loaderColor: Colors.grey
