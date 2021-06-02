@@ -31,6 +31,9 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    lintOptions {
+        checkReleaseBuilds false
+    }
     compileOptions {
         sourceCompatibility 1.8
         targetCompatibility 1.8
