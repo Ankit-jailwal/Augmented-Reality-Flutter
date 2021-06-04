@@ -1,16 +1,11 @@
 # Augmented Reality Flutter
 
-A new Flutter application.
+● In this project I learned to implement google's ARcore engine in Flutter. 
+● This project is based on single screen layout where user can directly access the application and can experience the augmented reality using device's camera.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Output from application:
+![alt text](https://github.com/Ankit-jailwal/Augmented-Reality-Flutter/blob/master/assets/images/WhatsApp%20Image%202021-06-04%20at%207.41.49%20AM.jpeg)
+![alt text](https://github.com/Ankit-jailwal/Augmented-Reality-Flutter/blob/master/assets/images/WhatsApp%20Image%202021-06-04%20at%207.36.19%20AM.jpeg)
+![alt text](https://github.com/Ankit-jailwal/Augmented-Reality-Flutter/blob/master/assets/images/WhatsApp%20Image%202021-06-04%20at%207.36.19%20AM%20(2).jpeg)
+![alt text](https://github.com/Ankit-jailwal/Augmented-Reality-Flutter/blob/master/assets/images/WhatsApp%20Image%202021-06-04%20at%207.36.19%20AM%20(1).jpeg)
+![alt text](https://github.com/Ankit-jailwal/Augmented-Reality-Flutter/blob/master/assets/images/WhatsApp%20Image%202021-06-04%20at%207.36.20%20AM.jpeg)
