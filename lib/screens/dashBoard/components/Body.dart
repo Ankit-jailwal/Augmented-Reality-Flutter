@@ -17,24 +17,19 @@ class _BodyState extends State<Body> {
   }
 
   _addSphere(ArCoreController _arcoreController) {
-    final material = ArCoreMaterial(color: Colors.blue,);
-    final sphere = ArCoreSphere(materials: [material], radius: 0.2,);
+    final material = ArCoreMaterial(color: Colors.cyanAccent);
+    final sphere = ArCoreCube(materials: [material], size: vector.Vector3(0.2, 0.2, 0.2),);
     final node = ArCoreNode(
       shape: sphere,
       position: vector.Vector3(
-        0,
-        0,
-        -1,
+        -0,
+        -0,
+        -0.8,
       ),
     );
 
-    _arcoreController.addArCoreNode(node);
-  }
 
-  @override
-  void dispose() {
-    arCoreController.dispose();
-    super.dispose();
+    _arcoreController.addArCoreNode(node);
   }
 
   @override
